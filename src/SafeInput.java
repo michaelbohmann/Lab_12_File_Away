@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class SafeInput {
+
     //NonZeroLenString
     /**
      * @param pipe   a Scanner opened to read from System.in
